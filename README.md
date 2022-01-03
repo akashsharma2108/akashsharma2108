@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akashsharma2108
-- 🌱 I’m currently learning python
+- 🌱 Full stack developer
 - 📫 Email akashsharma90099@gmail.com
 
 <!---
